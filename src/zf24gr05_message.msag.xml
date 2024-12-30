@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>No entry found.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>No valid items found with PO reference.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>0 row(s) selected. Please select at least 1 row(s) to proceed.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Functioncode: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>005</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>250</MSGNR>
+     <TEXT>0 row(s) selected. Please select at least 1 row(s) to proceed.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>251</MSGNR>
+     <TEXT>No matching data available.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>300</MSGNR>
+     <TEXT>Return message is empty.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>325</MSGNR>
+     <TEXT>No valid items found with PO reference.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>326</MSGNR>
+     <TEXT>Outbound Delivery &amp;1 does not exist.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>350</MSGNR>
+     <TEXT>Goods receipt posted successfully. Document Number: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>351</MSGNR>
+     <TEXT>Outbound Delivery &amp;1 saved, material document &amp;2 created.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>376</MSGNR>
+     <TEXT>No item(s) found for PO number: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>377</MSGNR>
+     <TEXT>No isocode found for Unit of Measure: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>400</MSGNR>
+     <TEXT>Go to tcode VL02N with Outbound Delivery: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>401</MSGNR>
+     <TEXT>Go to tcode MIGO with Document Number: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>476</MSGNR>
+     <TEXT>Outbound delivery &amp;1 has already posted Goods Receipt.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>477</MSGNR>
+     <TEXT>Outbound delivery &amp;1 has not posted Goods Issue yet.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>998</MSGNR>
+     <TEXT>Data does not exists</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZF24GR05_MESSAGE</ARBGB>
+     <MSGNR>999</MSGNR>
+     <TEXT>Please enter a Purchase Order Number.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
